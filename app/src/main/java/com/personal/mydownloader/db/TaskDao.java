@@ -1,9 +1,9 @@
-package com.rokid.mydownloader.db;
+package com.personal.mydownloader.db;
 
 import android.content.Context;
 
 import com.j256.ormlite.dao.Dao;
-import com.rokid.mydownloader.DownLoader.DownTaskInfo;
+import com.personal.mydownloader.DownLoader.DownTaskInfo;
 
 import java.sql.SQLException;
 import java.util.List;

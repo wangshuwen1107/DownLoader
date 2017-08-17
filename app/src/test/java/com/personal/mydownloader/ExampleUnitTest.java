@@ -1,4 +1,4 @@
-package com.rokid.mydownloader;
+package com.personal.mydownloader;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.rokid.mydownloader.DownLoader;
+package com.personal.mydownloader.DownLoader;
 
 /**
  * Created by wn_dev on 2016/12/16.

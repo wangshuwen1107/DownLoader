@@ -1,4 +1,4 @@
-package com.rokid.mydownloader.net;
+package com.personal.mydownloader.net;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;

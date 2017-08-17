@@ -1,4 +1,4 @@
-package com.rokid.mydownloader;
+package com.personal.mydownloader;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

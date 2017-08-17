@@ -1,10 +1,10 @@
-package com.rokid.mydownloader.DownLoader;
+package com.personal.mydownloader.DownLoader;
 
 import android.content.Context;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.rokid.mydownloader.net.HttpUtils;
+import com.personal.mydownloader.net.HttpUtils;
 
 import java.io.Closeable;
 import java.io.File;

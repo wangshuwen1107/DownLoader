@@ -1,4 +1,4 @@
-package com.rokid.mydownloader.DownLoader;
+package com.personal.mydownloader.DownLoader;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;

@@ -1,12 +1,12 @@
-package com.rokid.mydownloader;
+package com.personal.mydownloader;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
-import com.rokid.mydownloader.DownLoader.DownLoader;
-import com.rokid.mydownloader.DownLoader.DownLoaderCallBack;
+import com.personal.mydownloader.DownLoader.DownLoader;
+import com.personal.mydownloader.DownLoader.DownLoaderCallBack;
 
 public class MainActivity extends AppCompatActivity {
     public static final String url="http://10.88.9.150:8080/weibonews/11.mp4";
